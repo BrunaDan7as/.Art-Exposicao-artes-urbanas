@@ -44,7 +44,7 @@ a, i {
 
 #logo-container {
     display: flex;
-    justify-content: center:
+    justify-content: center;
 }
 
 #logo {
@@ -59,3 +59,11 @@ a, i {
     margin: 10px auto;
 }
 
+#navbar a {
+    width: 80px;
+    color: #444;
+}
+
+#navbar a:hover {
+    color: #c1b696;
+}
